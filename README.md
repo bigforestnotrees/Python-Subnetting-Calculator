@@ -4,18 +4,18 @@ A subnetting calculator. Calculates network, first host, last host, and broadcas
 
 # Information Displayed
 
-IP Address: the IP Address you provided
-Network Address: the Network Address of the IP Address you provided
-First Host: The first host in the subnet (dotted-decimal IP Address format)
-Last Host: The last host in the subnet (dotted-decimal IP Address format)
-Broadcast Address: the network broadcast address (dotted-decimal IP Address format)
-Total Hosts: the total number of hosts on the subnet, including broadcast and network addresses
-Usable Hosts: the available hosts. Total number of hosts minus the broadcast and network addresses
-Subnet ID: the identity or index of the subnet
-Subnet Mask Slash Notation: the subnet mask in slash notation
-Subnet Mask: the subnet mask in dotted-decimal format
-Binary Subnet Mask: the subnet mask converted to binary
-IP Class: the class of the IP Address, ranging from A to C
+1. IP Address: the IP Address you provided
+2. Network Address: the Network Address of the IP Address you provided
+3. First Host: The first host in the subnet (dotted-decimal IP Address format)
+4. Last Host: The last host in the subnet (dotted-decimal IP Address format)
+5. Broadcast Address: the network broadcast address (dotted-decimal IP Address format)
+6. Total Hosts: the total number of hosts on the subnet, including broadcast and network addresses
+7. Usable Hosts: the available hosts. Total number of hosts minus the broadcast and network addresses
+8. Subnet ID: the identity or index of the subnet
+9. Subnet Mask Slash Notation: the subnet mask in slash notation
+10. Subnet Mask: the subnet mask in dotted-decimal format
+11. Binary Subnet Mask: the subnet mask converted to binary
+12. IP Class: the class of the IP Address, ranging from A to C
 
 TABLE
 Displays: 
